@@ -1,0 +1,11 @@
+Date,Location,Temperature_C,Humidity_pct,Wind_Speed_kmh,Pressure_hPa,Precipitation_mm,Weather
+2026-01-01,Hyderabad,24,55,12,1012,0,Sunny
+2026-01-02,Hyderabad,25,52,10,1011,0,Sunny
+2026-01-03,Hyderabad,23,60,14,1010,2,Cloudy
+2026-01-04,Hyderabad,22,65,16,1008,5,Rainy
+2026-01-05,Hyderabad,21,70,18,1007,8,Rainy
+2026-01-06,Hyderabad,24,58,13,1011,1,Cloudy
+2026-01-07,Hyderabad,26,50,11,1013,0,Sunny
+2026-01-08,Hyderabad,27,48,9,1014,0,Sunny
+2026-01-09,Hyderabad,25,55,12,1012,0,Cloudy
+2026-01-10,Hyderabad,23,62,15,1009,4,Rainy
